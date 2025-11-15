@@ -2,7 +2,7 @@
 
 GOOGLE_CAPSTONE
 
-AI evolves language for humanity.
+**AI evolves language for humanity.**
 
 ____
 
