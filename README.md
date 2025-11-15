@@ -4,7 +4,7 @@ GOOGLE_CAPSTONE
 
 > **AI evolves language for humanity.**
 
-Solves ambiguity, cliche, misnomer for AI - in a novel way.
+Solves ambiguity, cliche, misnomer, (polysemy and homonemy) for AI - in a novel way.
 
 ____
 
@@ -12,11 +12,15 @@ ____
 
 This is the story of a language enhancement experiment.
 
+Inspirational vision:
+
 > What if language could be anything?
 
-What if we could talk to people 1,000 years in the future - and look back at all our YouTubes
+To set the scene. Let's travel 1,000 years into the future - to year 3025.
 
-What would they say.
+> Now join your distant relatives, in a look back at all your YouTubes!
+
+What will they see is antiquated?
 
 > How will AI change us?
 
@@ -30,19 +34,19 @@ ____
 
 > Human language is dynamic.
 
-We can predict that language_dynamism will continue, and accelerate - with Artificial Intelligence.
+We can predict that language_dynamism will continue, and will accelerate - with Artificial Intelligence.
 
-This capstone shares that fascinating story!
+This capstone explores this fascinating story!
 
 ____
 
 ### ORIGIN STORY:
 
-It started in a university dorm room. Where a student imagined a simple app to learn C++.
+It started in a university dorm room. Where a student imagines a little game to learn C++.
 
 > Use AI to rhyme song lyrics.
 
-With the inspiration of a mentor and a professor, a tokenizer was written for a large laguage model ~ 25 years ago.
+With the inspiration of a mentor and a professor - a tokenizer was written for a large language model ~ 25 years ago.
 
 ____
 
@@ -50,27 +54,25 @@ ____
 
 The code was the easy part. The much harder aspect was navigating the "fragility" of the English language.
 
-> It started with a fascination of "how to get 'orange' to rhyme with 'door hinge'"?
+> It started with the challenge of how to get 'orange' to rhyme with 'door hinge'!
 
-But a paradigm shift to larger context - was a surprise.
+With a paradigm shift to a larger context - waiting as a surprise.
 
 ____
 
 ### SOLUTIONS:
 
-As the problems cascaded down, from every fragility in English - so too, solutions cascaded out.
-
-For example:
-
-The first "TEXT_MECHANISM" innovated, was used to find similar sounding phonemes.
+The first "TEXT_MECHANISM" innovated, was to find similar sounding phonemes.
 
 > It was called: "HARMON_IFICATION".
 
-As token metadata, it was used like a 'BSE' template in the tokenizer to apply "RHYME_ABILITY".
+It was an early agent.
 
-It is a subtle and powerful concept.
+Like 'BSE' token metadata, it was used in the tokenizer to apply "RHYME_ABILITY".
 
-> A rethink of language in the age_of_AI.
+A subtle and powerful concept.
+
+> To rethink language in the age_of_AI.
 
 ____
 
@@ -83,13 +85,15 @@ Inspired by (GoF) DESIGN PATTERNS, the rhyme_ability (MECH), evolved a class of 
 - "CONCEPT_IFICATION"
 - "DISAMBIG_IFICATION"
 
+Far beyond rhyming.
+
 These are English words, that reference functional ability for AI.
 
-And decendents of "Harmon_ification".
+As decendents of "Harmon_ification".
 
-The paradigm shift was unexpected.
+When AI sees these words - it calls a sub agent to conduct the mechanism.
 
-It was discovered by accident.
+Like rhyming, or understanding an acronym.
 
 ____
 
@@ -113,7 +117,20 @@ Inspired by computer science "snake-case", "camel-case", and "title-case" - enha
 
 And this became valid, when plain English was fed into Gemini.
 
+But now with "enhanced_english".
+
 ____
+
+### PARADIGM SHIFT:
+
+After solving rhyme_ability, a test case was to rhyme CLICHE phrases.
+
+But cliche phrases are notoriously ambiguous to AI. So it was tricky to know what they meant.
+
+A novel solution was innovated apart from web-scraping and scaling.
+
+____
+
 
 ### REAL WORLD VALUE:
 
@@ -129,7 +146,7 @@ And,
 
 > "Index all concepts possible into single words - for AI."
 
-Implemented as sub-agents in this capstone.
+Those sub-agents implemented in this capstone.
 
 ____
 
