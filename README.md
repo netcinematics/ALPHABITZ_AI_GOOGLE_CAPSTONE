@@ -111,5 +111,29 @@ In reverse order:
 1. "DISAMBIG_IFICATION" - 
 pronounced [dis+am+big+if+ication].
 
-Solution to all ambiguity (called "AMBIGUOSITY").
+> Solution "MECH" to all ambiguity (called "AMBIGUOSITY").
+
+2. "CONCEPT_IFICATION" -
+pronounced [concept+if+ication].
+
+> Index of all concepts, not yet articulated into words - for AI.
+
+3. "EXACT_IFICATION" -
+pronounced [exact+if+ication].
+
+> Process for reversing misnomer into self_definitive_principle.
+
+4. "NAME_IFICATION" -
+pronounced [name+if+ication].
+
+> Ability for AI to name concepts that are not yet named.
+
+____
+
+### AGENT EXPERIMENTS:
+
+
+
+
+
 
