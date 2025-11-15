@@ -10,9 +10,11 @@ ____
 
 This is the story of a language enhancement experiment.
 
-> What if human language could be anything?
+> What if language could be anything?
 
-Join me for a journey to 1,000 years in the future - for a look back at all our YouTubes!
+What if we could talk to people 1,000 years in the future - and look back at all our YouTubes
+
+What would they say.
 
 > How will AI change us?
 
@@ -22,7 +24,7 @@ Specifically, this capstone explores the study focus of:
 
 ____
 
-THESIS:
+### THESIS:
 
 > Human language is dynamic.
 
@@ -38,69 +40,84 @@ It started in a university dorm room. Where a student imagined a simple app to l
 
 > Use AI to rhyme song lyrics.
 
-With the help of a mentor and a professor, a tokenizer was written for a large laguage model ~ 25 years ago.
+With the inspiration of a mentor and a professor, a tokenizer was written for a large laguage model ~ 25 years ago.
 
 ____
 
 ### PROBLEMS:
 
-The code was the easy part. The much harder part was understanding a invisible "fragility" in the language.
+The code was the easy part. The much harder aspect was navigating the "fragility" of the English language.
 
 > It started with a fascination of "how to get 'orange' to rhyme with 'door hinge'"?
+
+But a paradigm shift to larger context - was a surprise.
 
 ____
 
 ### SOLUTIONS:
 
-As the problems cascaded out from every fragility in the English language - so too, solutions were found.
+As the problems cascaded down, from every fragility in English - so too, solutions cascaded out.
 
-The first "TEXT_MECHANISM", was used to find similar sounding phonemes.
+For example:
 
-> Critically, it was called: "HARMON_IFICATION".
+The first "TEXT_MECHANISM" innovated, was used to find similar sounding phonemes.
 
-This capstone describes the decendents, that extended from that seminal epiphany.
+> It was called: "HARMON_IFICATION".
 
-Inspired by GoF DESIGN PATTERNS, for custom AI tools, called text_mechanisms:
-
-- "NAME_IFICATION"
-- "EXACT_IFICATION"
-- "CONCEPT_IFICATION"
-- "DISAMBIG_IFICATION"
-
-____
-
-### INNOVATION:
-
-The key innovation was a crossover of computer syntax into the English language.
-
-Inspired by computer science "snake-case", "camel-case", and "title-case" - a syntax was innovated to create TEXT_PRIMITIVES. 
-
-> Used like 'BSE' templates in the tokenizer to apply "RHYME_ABILITY".
+As token metadata, it was used like a 'BSE' template in the tokenizer to apply "RHYME_ABILITY".
 
 It is a subtle and powerful concept.
 
 > A rethink of language in the age_of_AI.
 
-The rhyme_ability text, revealed a class of "extra_ability", of enhanced syntax techniques - examined in this capstone.
-
-That paradigm shift was a surprise.
-
 ____
 
-### REAL WORLD VALUE:
+### LANGUAGE PATTERNS:
 
-With the ability to extend "Text_Mechanisms", the GOAL became:
-
-> "extra clarity and less confusion."
-
-These were the mechanisms ("MECHZ"):
+Inspired by (GoF) DESIGN PATTERNS, the rhyme_ability (MECH), evolved a class of custom AI tools, called text_mechanisms (or MECHZ):
 
 - "NAME_IFICATION"
 - "EXACT_IFICATION"
 - "CONCEPT_IFICATION"
 - "DISAMBIG_IFICATION"
 
-These are English words, that reference functional ability in AI.
+These are English words, that reference functional ability for AI.
+
+And decendents of "Harmon_ification".
+
+____
+
+### EASY ANALOGY:
+
+Think of "MECHZ" like acronyms.
+
+But with enhanced text patterns.
+
+Also, think of "ALPHABITZ", like an extension to alphabetics - for AI.
+
+____
+
+### INNOVATION:
+
+> The key concept was a crossover of syntax - from computer into English.
+
+Inspired by computer science "snake-case", "camel-case", and "title-case" - enhanced syntax was innovated to create TEXT_PRIMITIVES for AI prompts. 
+
+And this became valid, when plain English was fed into Gemini.
+
+____
+
+### REAL WORLD VALUE:
+
+With the ability to extend "Text_Mechanisms", new GOALS became:
+
+> "Extra clarity and less confusion."
+
+Also,
+
+> "Index all concepts possible into single word syntax."
+
+These sub-agents are described in this capstone.
 
 ____
 
@@ -111,7 +128,7 @@ In reverse order:
 1. "DISAMBIG_IFICATION" - 
 pronounced [dis+am+big+if+ication].
 
-> Solution "MECH" to all ambiguity (called "AMBIGUOSITY").
+> Solution "MECH" to resolve all ambiguity (called "AMBIGUOSITY").
 
 2. "CONCEPT_IFICATION" -
 pronounced [concept+if+ication].
@@ -131,6 +148,10 @@ pronounced [name+if+ication].
 ____
 
 ### AGENT EXPERIMENTS:
+
+
+
+> As words with "extra_abilities, called "WORDZ" - for AI and humanity.
 
 
 
