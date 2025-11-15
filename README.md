@@ -4,6 +4,8 @@ GOOGLE_CAPSTONE
 
 > **AI evolves language for humanity.**
 
+Solves ambiguity, cliche, misnomer for AI - in a novel way.
+
 ____
 
 ### OVERVIEW:
