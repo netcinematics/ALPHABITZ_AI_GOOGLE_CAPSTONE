@@ -85,6 +85,10 @@ These are English words, that reference functional ability for AI.
 
 And decendents of "Harmon_ification".
 
+The paradigm shift was unexpected.
+
+It was discovered by accident.
+
 ____
 
 ### EASY ANALOGY:
@@ -99,7 +103,9 @@ ____
 
 ### INNOVATION:
 
-> The key concept was a crossover of syntax - from computer into English.
+> The key concept was a crossover of primitives - from computer syntax into English.
+
+It was like giving AI extra_ability, for custom words (called WORDZ).
 
 Inspired by computer science "snake-case", "camel-case", and "title-case" - enhanced syntax was innovated to create TEXT_PRIMITIVES for AI prompts. 
 
@@ -115,9 +121,13 @@ With the ability to extend "Text_Mechanisms", new GOALS became:
 
 Also,
 
-> "Index all concepts possible into single word syntax."
+> "Create maximum exact text"
 
-These sub-agents are described in this capstone.
+And,
+
+> "Index all concepts possible into single words - for AI."
+
+Implemented as sub-agents in this capstone.
 
 ____
 
@@ -149,9 +159,17 @@ ____
 
 ### AGENT EXPERIMENTS:
 
+1. CLICHE vs. ALPHABITZ
+
+2. MISNOMER vs. NAMEIFICATION
+
+3. AMBIGUITY vs. EXACTIFICATION
+
+4. CONCEPTIFICATION vs. AMBIGUOSITY
+
+____
 
 
-> As words with "extra_abilities, called "WORDZ" - for AI and humanity.
 
 
 
