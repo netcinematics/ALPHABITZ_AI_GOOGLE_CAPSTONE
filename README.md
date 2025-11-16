@@ -2,9 +2,26 @@
 
 GOOGLE_CAPSTONE
 
-> **AI evolves language for humanity.**
+> **AI evolves a new language for humanity.**
 
-Solves ambiguity, cliche, misnomer, (polysemy and homonemy) for AI - in a novel way.
+Use AI to SOLVE:
+- ambiguity,
+- cliche,
+- misnomer,
+- polysemy (homonymy),
+- and more.
+
+Benefits, for AI and humans - like never before.
+
+____
+
+### TAKEAWAY:
+
+Think of "ALPHABITZ", like an extension to *alphabetics* - with AI.
+
+> The English language was never designed for AI - someday it will be.
+
+AI will rethink language - and you are one of the first to see it here.
 
 ____
 
@@ -14,19 +31,37 @@ This is the story of a language enhancement experiment.
 
 Inspirational vision:
 
-> What if language could be anything?
+> What would we see, of you and I could travel 1000 years into the future?
 
-To set the scene. Let's travel 1,000 years into the future - to year 3025.
+You and I, arrive in the year 3025. 
+To join your distant relatives, as they look back at all our YouTubes!
 
-> Now join your distant relatives, in a look back at all your YouTubes!
+- What will they see?
 
-What will they see is antiquated?
+- What will be antiquated?
 
-> How will AI change us?
+> You and I represent the last generation before the Age_of_AI.
 
-Specifically, this capstone explores the study focus of:
+- How will AI change us?
 
-> How will AI change LANGUAGE?
+This capstone explores the fascinating question of:
+
+> HOW MIGHT AI CHANGE LANGUAGE?
+
+Let's get creative and imaginative.
+
+How might English improve with AI?
+
+> What if language could be anything, what would it be?
+
+____
+
+### STRUCTURE:
+
+This paper follows the format:
+1. GEMINI RESEARCH
+2. GEMINI AGENTICS
+3. Python Visualization 
 
 ____
 
@@ -34,76 +69,103 @@ ____
 
 > Human language is dynamic.
 
-We can predict that language_dynamism will continue, and will accelerate - with Artificial Intelligence.
+AI will change human language.
 
-This capstone explores this fascinating story!
+But how?
+
+Join this fascinating journey to peek into the future!
 
 ____
 
 ### ORIGIN STORY:
 
-It started in a university dorm room. Where a student imagines a little game to learn C++.
+It starts in a tiny university dorm room. Where a student imagines a little "word_game" to learn C++.
 
 > Use AI to rhyme song lyrics.
 
-With the inspiration of a mentor and a professor - a tokenizer was written for a large language model ~ 25 years ago.
+Little does the student suspect, it would be a massive breakthrough in linguistics.
+
+> A new AI English.
 
 ____
 
 ### PROBLEMS:
 
-The code was the easy part. The much harder aspect was navigating the "fragility" of the English language.
+A "tokenizer" was built on a custom LLM of cliches - in 2002, as an undergrad project.
 
-> It started with the challenge of how to get 'orange' to rhyme with 'door hinge'!
+The code was the easy part!
 
-With a paradigm shift to a larger context - waiting as a surprise.
+The much harder challenge, was the solutions to the "fragility" of the English language.
+
+> CHALLENGE: how to get 'orange' to rhyme with 'door hinge'!
 
 ____
 
 ### SOLUTIONS:
 
-The first "TEXT_MECHANISM" innovated, was to find similar sounding phonemes.
+The first solution was a "TEXT_MECHANISM", to find similar sounding phonemes.
 
-> It was called: "HARMON_IFICATION".
+> It was called: "RHYME_ABILITY".
 
-It was an early agent.
+As an early agent, function tool.
 
-Like 'BSE' token metadata, it was used in the tokenizer to apply "RHYME_ABILITY".
+> Reflecting all the ways to rhyme.
 
-A subtle and powerful concept.
+Like 'BSE' token metadata, it was used in the tokenizer to apply "RHYME_ABILITY" - before GPT's or attention mechanism.
 
-> To rethink language in the age_of_AI.
+A powerful concept was born.
+
+> To extend language in the age_of_AI.
+
+Where some words represent "extra_ability" to AI inference.
 
 ____
 
 ### LANGUAGE PATTERNS:
 
-Inspired by (GoF) DESIGN PATTERNS, the rhyme_ability (MECH), evolved a class of custom AI tools, called text_mechanisms (or MECHZ):
+Inspired by (GoF) DESIGN PATTERNS.
 
+The rhyme_ability tool, evolved into many lexical tools, called text_mechanisms (or "MECHZ").
+
+#### The first "cluster".
+
+"~ability":
+- rhyme_ability
+- extra_ability
+
+#### Then a second cluster.
+
+Resulting in more transformative, MECHZ, as a paradigm shift.
+
+> Away from rhyming, and toward descriptions of everything else in existence!
+
+"~ification:
 - "NAME_IFICATION"
 - "EXACT_IFICATION"
 - "CONCEPT_IFICATION"
 - "DISAMBIG_IFICATION"
 
-Far beyond rhyming.
+____
 
-These are English words, that reference functional ability for AI.
+Far beyond rhyme mechanisms.
 
-As decendents of "Harmon_ification".
+These are English words, that infer functional ability for AI.
+
+As decendents of "Rhyme_ability".
 
 When AI sees these words - it calls a sub agent to conduct the mechanism.
 
-Like rhyming, or understanding an acronym.
+Like rhyming, or understanding an acronym - or pig-latin.
+
+> GEMINI instantly understands this new language - as if it were jargon. 
 
 ____
 
 ### EASY ANALOGY:
 
-Think of "MECHZ" like acronyms.
+Think of "MECHZ" like ACRONYMS.
 
 But with enhanced text patterns.
-
-Also, think of "ALPHABITZ", like an extension to alphabetics - for AI.
 
 ____
 
