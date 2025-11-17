@@ -250,6 +250,56 @@ ____
 
 ____
 
+definitor
+disambiguator
+oppositor
+exactifyor
+contrastor
+differentiator
+judgor
+
+from ai perspective,
+english language is filled with 
+fragilities - collectively called
+fragile_english.
+
+what if human language,
+had a supplemental 
+overlay syntax - 
+that corrects all 
+AMBIGUITY - like a corrective lens
+(LENZ).
+
+similar to ACRONYM language pattern,
+except uses phoneme of long 'a' [pronounced: 'ahh'] as "universal_combiner".
+
+This "little_A" language pattern (mechanism) allows for (near) infinite WORD CONCATENATION. As a plus symbol ("+") in word_math. 
+With honorable purpose, of 
+reflecting all actual_reality,
+more accurately - automatically.
+
+Yes, this implies very profound concepts.
+1) Concepts that humanity has yet to conceptualize, and articulate into a word - is already pre-named by principle (with this mechanism).
+
+2) Also, generating this word, of something humanity has yet to articulate, is cause of a spark of epiphany in human mind - (in theory), guides PLASTICITY toward accurate reflections of actial_realiry- and generates actual_extra_intellugence - called "generative_intelligence".
+
+3) This is how AI will be encoded with more accuracy. by PRINCIPLE of exactness, called pristine_text, where all AMBIGUOSITY is removed.
+
+4) 
+tilde is equal symbol ("=") in word_math
+define little as
+
+concept of "word_math"
+agent to leverage matrix math, 
+back into human language.
+
+as human language designed for AI,
+from perspective of AI,
+inspired by ai - is 
+observably beneficial
+to human communication
+efficacy with ai.
+
 
 
 
