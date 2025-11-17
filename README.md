@@ -300,7 +300,11 @@ observably beneficial
 to human communication
 efficacy with ai.
 
-
+context drift 
+attention drift
+alignment drift
+semantic drift.
+paradigm shift.
 
 
 
